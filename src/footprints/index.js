@@ -17,4 +17,5 @@ module.exports = {
     slider: require('./slider'),
     trrs: require('./trrs'),
     via: require('./via'),
+    waveshare_rp2040_zero: require('./waveshare_rp2040_zero'),
 }
